@@ -3,6 +3,9 @@
 > 新版本代码已经正式合入到主干分支，欢迎使用。
 > 整体采用 `SpringBoot + Vue` 技术架构实现。
 
+## 原开源地址
+https://github.com/veezean/CodeReviewServer
+
 ---
 
 V4.2.1版本正式发布，更新内容： [点击查看](https://mp.weixin.qq.com/s/w-hL-pEbB8FbiAAvHCvDQg)
@@ -98,13 +101,3 @@ V4.2.1版本正式发布，更新内容： [点击查看](https://mp.weixin.qq.c
 - [Github源码仓库](https://github.com/veezean/IntellijIDEA-CodeReview-Plugin)
 
 - [Gitee镜像仓库](https://gitee.com/veezean/IntellijIDEA-CodeReview-Plugin)
-
-## 问题&建议
-
-使用过程中，如果发现有bug或者有功能建议，欢迎提issue单，或者通过公众号`是vzn呀`联系到作者，获取更为及时的支持。
-
-![](https://pics.codingcoder.cn/pics/202207091317876.png)
-
-当然，如果觉得本软件帮助到了您的工作，也欢迎支持我继续更新维护下去~
-
-![](https://pics.codingcoder.cn/pics/202307231540263.png)
